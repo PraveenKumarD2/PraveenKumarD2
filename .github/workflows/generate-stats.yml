@@ -1,0 +1,32 @@
+name: Generate GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # optional: update stats daily
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub stats SVG
+        uses: anmol2626/github-readme-stats-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_file: ./stats.svg
+          username: PraveenKumarD2
+          show_private: true
+          hide_border: true
+
+      - name: Commit and push stats
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add stats.svg
+          git commit -m "Update GitHub stats"
+          git push
