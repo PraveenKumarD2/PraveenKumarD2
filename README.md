@@ -39,7 +39,7 @@ I enjoy architecting clean, reusable components and continuously improving app p
 
 ## 📊 GitHub Stats
 
-![My GitHub Statistics](images/userstats.svg)
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenKumarD2&show_icons=true&theme=tokyonight)
 
 ---
 
