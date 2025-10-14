@@ -2,7 +2,7 @@
 
 🚀 **Senior iOS Application Developer | 7.5+ Years of Experience | Swift | SwiftUI | Core Data | MVVM**
 
-I’m a passionate iOS developer with a strong focus on building **scalable, high-performance, and user-centric mobile applications**.  
+I'm a passionate iOS developer with a strong focus on building **scalable, high-performance, and user-centric mobile applications**.  
 I enjoy architecting clean, reusable components and continuously improving app performance and development efficiency.  
 
 ---
@@ -37,4 +37,16 @@ I enjoy architecting clean, reusable components and continuously improving app p
 
 ---
 
-> *“Great mobile apps come from thoughtful design, clean architecture, and a relentless focus on performance.”*  
+## 📊 GitHub Stats
+
+![My GitHub Statistics](images/userstats.svg)
+
+---
+
+## 🔥 Contribution Graph
+
+![Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraveenKumarD2&theme=tokyonight)
+
+---
+
+> *"Great mobile apps come from thoughtful design, clean architecture, and a relentless focus on performance."*  
