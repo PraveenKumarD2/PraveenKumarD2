@@ -23,7 +23,7 @@ I enjoy architecting clean, reusable components and continuously improving app p
 **Languages:** Swift, Objective-C  
 **Frameworks:** SwiftUI, UIKit, Core Data, Core Animation, Firebase  
 **Architecture:** MVVM, MVC, Coordinator Pattern  
-**Tools:** Xcode, GitHub, Sourcetree, Fastlane, App Center, JIRA, Zoho Sprints, Cursor  
+**Tools:** Xcode, GitHub, Sourcetree, App Center, JIRA, Zoho Sprints, Cursor  
 **Databases:** SQLite, FMDB, Core Data  
 **Version Control & CI/CD:** Git, Bitbucket, Jenkins, GitHub Actions  
 
